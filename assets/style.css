@@ -1,0 +1,79 @@
+h1 {text-align: center
+  
+  ;
+  ;
+}
+
+h2 {
+    text-align: left;
+    background-color: rgba(240, 236, 236, 0.712);
+    color: white;
+}
+
+h3 {
+  color: black;
+  text-align: right;
+}
+
+h4 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+h6 {
+  text-align: center;
+}
+
+img {border: black;
+  align-content: center;
+  padding: 5px;
+} 
+
+.logos {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 30%;
+ 
+}
+
+.personal_photo {
+  display: block;
+  align: left;
+ 
+  width: 30%;
+  height: 30%;
+  
+}
+
+section {
+  padding: 5px;
+  background-color: rgba(240, 236, 236, 0.712);
+  margin: 1%;
+}
+
+body {
+  background-color: rgba(53, 156, 170, 0.753);
+}
+
+
+p {
+  font-size: 16px;
+  color: black;
+  Align: right;
+  
+
+}
+
+ul {
+  border-style: solid;
+  color: gray;
+}
+
+ul {
+  margin-right: 10% ;
+}
